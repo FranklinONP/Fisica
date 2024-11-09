@@ -1,0 +1,27 @@
+Practica 3
+
+Según el marco teórico en la Ley de Ohm se observa
+que la resistencia es la constante de proporcionalidad de
+la relación de voltaje y corriente por lo tanto mientras
+mayor sea la resistencia el voltaje sera mayor, así mismo
+establece que en los circuitos en serie el voltaje esta
+dividido en el numero de resistencias que posee el cicuito;
+lo cual respalda los datos obtenidos a continuacion, observando asi que
+al ser mayor la resistencia el voltaje aumenta.
+Se tiene en la tabla de comparaciones del dato teorico y experimental del cirucito 1. En la tabla del circuito 1, se tiene la comparativa de los datos teorico y experimentales de la medicion de voltaje y carga, se puede determinar y observar que la variacion entre estos datos, es miníma, casi inapreciable, lo cual indica que la practica tiene un nivel de exactitud buena, en el circuito dos se tiene un circuito en serie, en la tabla se puede observa que los datos obtenidos y los teoricos difieren muy poco, y que la carga es la misma en todas las resistencias debido a que el cirucito esta en completamente en serie. 
+En el circuito tres se tiene un circuito en paralelo, aqui la diferencia en los datos comparados en inapreciable, por lo que se sigue teniendo una exactitud excelente, en esté circuito se determinó que al ser un circuito en paralelo no comparte la misma carga, pero que en cada resistencia existe el mismo voltaje.
+La variacion en la comparativa de los datos teoricos y experimentales, es muy pequeña por lo que esta práctica cumplió sus objetivos.
+
+
+//
+Calcular la corriente eléctrica y voltaje de cada uno de los circuitos para determinar si se encuentra en serie o paralelo.
+
+Se logró determinar la corriente y voltaje de los 3 circuitos, con la ayuda del multimetro digital y la fuete de alimentacion modelo 33032. Haciendo uso de la teoría, se logró determinar que el circuito 2 esta completamente en serie, mientras que el circuito 3 esta completamente en paralelo
+
+Cotejar los voltajes y corrientes de los circuitos en serie y en paralelo.
+
+Haciendo uso de una tabla, se logró cotejar los datos de voltaje y corriente del circuito 1, del circuito 2 que esta en serie,  y también del circuito 3 que es un circuito en paralelo, con todo este cotejo se pudo llegar a la conclusion que la practica fue realizada con mucha exactitud y presición.
+
+Comparar el comportamiento de la corriente y voltaje en circuitos en serie y paralelo.
+
+Auxiliandose de una tabla se compara el comportamiento de corriente y voltaje de cada circuito, en el circuito dos, se esperaba un corriente igual en las resistencias, y segun los datos, si se tiene una corriente igual en todas las resitencias, esto confirma que es un circuito en serie, en el circuito tres se esperaba un un volaje igual en las resistecias, segun los datos obtenidos si existe el mismo voltaje en todas las resistencias, por lo que se concluye que la practica es verídica.

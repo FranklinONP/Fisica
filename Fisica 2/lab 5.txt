@@ -1,0 +1,11 @@
+Discusion de Resultados
+_______________________
+Para el desarrollo de la practica se hizo uso de un circuito el cual contaba con 4 nodos, y 9 resistencias, esto con el fin de comprobar experimentalmente la primera  ley de Kirchhoff (Leyde Nodos), y la ley de mallas de kirchoff (la suma algebraica de las caídas de voltaje en un circuito cerrado debe ser igual a cero.), usando el multimetro digital, se midio se midio la resistencia equivalente del circuito, para posteriormente compararlo, se estuvo variando el voltaje de la fuente para tener distintos escenarios en la medición del voltaje y corriente en cada resistencia, en la tabulación de estos datos se comprobó la ley de nodos de kirchoff, la carga que entra es igual a la que sale en un nodo, tambien se pudo comprobar experimentalmente, por medio de las mediciones, la caida de potencial en cada resistencia, que la suma de potencial en un circuito cerrado es 0, finalmente se hizo la comparativa en la tabla V del potencial teorico y experimental, tabla en la que se puede apreciar que la diferencia es miníma, teniendo una diagrama de incertezas en donde se puede apreciar de mejor manera.
+
+1
+Haciendo uso de la tecnologia se hicieron las mediciones correspondientes en cada submaya extraida, en donde se concluyó, a partir del circuito de esta práctica en donde se comprobo experimentalmente cada potencia, y que su suma en el circuito cerrado es 0
+
+En la practica, habiendo utilizado el metodo de mayas se encontro la corriente en en todo el recorrido del cirucito, graficamente se plasmaron en la práctica 4 graficas en donde se comprueba que en un nodo, la carga que entra es igual a la que sale, por lo que se concluye que es verídico la ley de nodos de Kirchoff
+
+
+Se concluye que la suma de las potencias en cada resistencia es igual a la potencia equivalente del circuito, ya que fue demostrado de manera experimental en esta práctica.

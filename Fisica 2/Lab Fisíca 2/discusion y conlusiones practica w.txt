@@ -1,0 +1,34 @@
+
+Discusion de Resultados
+
+En la figura uno se puede apreciar las lineas equipotenciales de dos cargas positivas
+en donde se puede ver que como son cargas positivos se sabe que sus campos se repelen, 
+por los que sus lineas equipotenciales tiene esa forma, en la que mientras mas grande sea el radio de las dos cargas puntuales sus lineas empizan a unirse, en la figura dos se puede apreciar que el las lineas equipotenciales entre las dos placas metalicas es uniforme, debido a que las dos placas tiene la misma carga, y signo, esto puede suceder, en la figura 3 vemos un gran cambio, ya que las cargas puntuales ya no son del mismo signo, misma en la que tambien interviene una roldana, se puede apreciar que el comportamiento es totalmente diferente al de la figura 2, en la figura 4 se teniendo una placa metalica con una carga puntual, el comportamiento de las lienas equipotenciales simepre van a ir hacia afuera de la carga porque es positiva, pero la placa metalica funciona como barrera ya que esta al ser conductora se carga. En la tabla I de la sección de resultados presenta
+los valores de voltajes en la figura de Carga Puntual, asi mismo las tabla II y III, comparandola con el dato teorico y con la incerteza obtenida en cada caso, se logra determinar que los datos varian muy poco, por ende la incertidumbre del valor experimental es  muy cercano al teorico, por lo que se se puede concluir que la practica fue realizada con presición.
+
+conclusion 3
+Se aprendio a usar el multimetro con los diferentes objetos conductores medidos en la practica, esto debido a que se hizo uso del medidor de voltaje en el multimetro, tambien cersiorandose que el la escala de voltaje configurada era la correcta, conectando las puntas en del multimetro en donde se deseaba encontrar el voltaje para luego poder trazar un boceto de como se comportan las lineas equipotenciales.
+
+conblusion 2
+Se logró comprobar que las líneas equipotenciales
+se forman en un campo eléctrico cuando se conec-
+tan todos los puntos que tienen el mismo potencial
+eléctrico y que estas líneas son perpendiculares a las
+líneas de campo eléctrico y su separación indica la
+variación del potencial eléctrico, tambien se logro
+comprobar que las líneas equipotenciales son conti-
+nuas y no se cortan entre sí, ya que en cada punto
+de una línea equipotencial el potencial eléctrico es el
+mismo. Por lo tanto se concluyó que es importatne
+entedeer la formación de líneas equipotenciales para
+entender cómo fluye la corriente eléctrica y cómo se
+distribuyen las cargas en un circuito eléctrico.
+
+conclusion 1
+El voltaje es la medida de la energía eléctrica potencial por unidad de carga eléctrica en un punto de un circuito eléctrico. Cuando se acerca o se separa una carga eléctrica, se modifica la distribución de cargas eléctricas en el circuito, lo que puede causar cambios en el voltaje en el punto en el que se mide.
+
+Cuando una carga positiva se acerca a una carga negativa, se produce una atracción eléctrica entre ellas. Esta atracción hace que las cargas eléctricas en el circuito se redistribuyan, lo que puede causar un aumento del voltaje en el punto en el que se mide. De manera similar, cuando una carga positiva se aleja de una carga negativa, la atracción eléctrica disminuye, lo que puede causar una disminución del voltaje en el punto en el que se mide.
+
+Por otro lado, cuando una carga positiva se acerca a otra carga positiva, se produce una repulsión eléctrica entre ellas. Esta repulsión hace que las cargas eléctricas en el circuito se redistribuyan, lo que puede causar una disminución del voltaje en el punto en el que se mide. De manera similar, cuando una carga positiva se aleja de otra carga positiva, la repulsión eléctrica disminuye, lo que puede causar un aumento del voltaje en el punto en el que se mide.
+
+En resumen, el voltaje puede variar al separarse o acercarse una carga debido a los efectos de la atracción o repulsión eléctrica entre las cargas en el circuito y la redistribución resultante de las cargas eléctricas.
